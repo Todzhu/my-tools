@@ -1,2 +1,2 @@
 # my-tools
-python little tools use for proteome
+python and R little tools use for proteome
